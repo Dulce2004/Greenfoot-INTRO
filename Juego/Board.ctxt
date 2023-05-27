@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=howMany
+comment2.target=void\ drawRandomCircles(int)
+comment3.params=
+comment3.target=void\ createBlocks()
+comment4.params=y
+comment4.target=void\ createRow(int)
+comment5.params=
+comment5.target=void\ ballIsOut()
+comment6.params=
+comment6.target=void\ score()
+comment7.params=
+comment7.target=void\ prepare()
+comment7.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=8

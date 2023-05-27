@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=lines
+comment1.params=
+comment1.target=lines()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=dist
+comment4.target=void\ moveSideways(int)
+comment5.params=
+comment5.target=void\ newBall()
+comment6.params=
+comment6.target=boolean\ haveBall()
+comment7.params=
+comment7.target=void\ releaseBall()
+numComments=8
